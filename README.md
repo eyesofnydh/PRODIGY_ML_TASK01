@@ -42,7 +42,7 @@ The mean squared error (MSE) and R-squared (R2) values are calculated to assess 
 Nidhin Narayanan
 
 ## License
-This project is licensed under the [MIT License].![click](https://github.com/eyesofnydh/PRODIGY_ML_TASK01-main/blob/main/LICENSE).
+This project is licensed under the [MIT License].![click](https://github.com/eyesofnydh/PRODIGY_ML_TASK01/blob/main/LICENSE).
 
 ---
 
