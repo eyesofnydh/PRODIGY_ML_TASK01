@@ -1,4 +1,3 @@
-Sure, here is the revised version of the repository documentation with the author's name changed to Nidhin Narayanan.
 
 ---
 
@@ -45,5 +44,3 @@ Nidhin Narayanan
 This project is licensed under the [MIT License].![click](https://github.com/eyesofnydh/PRODIGY_ML_TASK01/blob/main/LICENSE).
 
 ---
-
-This should reflect the change in the author's name as requested.
